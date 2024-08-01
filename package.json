@@ -1,0 +1,19 @@
+{
+  "name": "fazt_express",
+  "version": "1.0.0",
+  "description": "fazt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan35356/faztexpress.git"
+  },
+  "author": "jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan35356/faztexpress/issues"
+  },
+  "homepage": "https://github.com/jonathan35356/faztexpress#readme"
+}
