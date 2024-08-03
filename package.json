@@ -4,7 +4,9 @@
   "description": "fazt project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jonathan35356/faztexpress/issues"
   },
-  "homepage": "https://github.com/jonathan35356/faztexpress#readme"
+  "homepage": "https://github.com/jonathan35356/faztexpress#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
